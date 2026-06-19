@@ -1,0 +1,8 @@
+id
+nome
+telefone
+email
+senha_hash
+perfil
+ativo
+criado_em
